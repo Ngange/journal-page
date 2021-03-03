@@ -6,7 +6,7 @@ h1 {
 
 .center {
     margin: 0% auto;
-    max-width: 45%;
+    max-width: 500px;
     line-height: 1.6;
 }
 
@@ -24,12 +24,13 @@ h1 {
 }
 
 figure {
-    margin-left: -122px;
+
+    margin-left: -127px;
 }
 
 img {
     max-width: 105%;
-    padding-right: -40px;
+    padding-right: -45px;
 }
 
 .sideline {
