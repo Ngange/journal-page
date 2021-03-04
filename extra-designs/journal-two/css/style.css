@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+
+}
+.top_figure{
+    margin: 0;
+  
+
+}
+
+.home_image {
+    max-width: 100%;
+}
+h1 {
+    font-size: 40pt;
+    font-family: sans-serif;
+    line-height: normal;
+}
+
+.center {
+    margin: 0% auto;
+    max-width: 45%;
+    line-height: 1.6;
+}
+
+.dateformat {
+    color: gray;
+}
+
+.bluelines {
+    margin:0%;
+    font-size: 20pt;
+    border-top: 3px solid blue;
+    border-bottom: 3px solid blue;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+figure {
+    margin-left: -122px;
+}
+
+img {
+    max-width: 105%;
+    padding-right: -40px;
+}
+
+.sideline {
+    padding: 10px;
+    border-left: 5px solid gray;
+}
